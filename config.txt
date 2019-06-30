@@ -1,0 +1,5 @@
+token=YourToken
+owner=511361081894109229
+prefix=3
+game=playingType3help
+stayinchannel=true
