@@ -1,5 +1,5 @@
-token=YourToken
-owner=511361081894109229
-prefix=3
-game=playingType3help
+token=NTg0Mzk4MzA1NTAxMzgwNjE4.XRjVsQ.eCIN-Cc1Ze3A2qXzkDitJxkqljc
+owner=594613115849801747
+prefix=10
+game=playingType10help
 stayinchannel=true
