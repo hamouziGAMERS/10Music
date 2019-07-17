@@ -1,5 +1,5 @@
 token=NTg0Mzk4MzA1NTAxMzgwNjE4.XRjVsQ.eCIN-Cc1Ze3A2qXzkDitJxkqljc
 owner=511361081894109229
-prefix=m
-game=playingTypeMhelp
+prefix=10
+game=playingType10help
 stayinchannel=true
