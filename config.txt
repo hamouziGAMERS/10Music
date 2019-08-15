@@ -1,5 +1,5 @@
 token=NTg0Mzk4MzA1NTAxMzgwNjE4.XVJl_w.SEMus1WZFoNHC0l7TDuxJTULbY4
 owner=511361081894109229
-prefix=10
-game=playingSpring | 10play
+prefix=Ve
+game=playingSpring | Veplay
 stayinchannel=true
